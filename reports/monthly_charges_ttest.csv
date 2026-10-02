@@ -1,0 +1,2 @@
+test,t_statistic,p_value,churned_mean_monthly_charges,retained_mean_monthly_charges
+Welch independent t-test,18.34091879095257,2.657357144516046e-72,74.44133226324237,61.307408483439865

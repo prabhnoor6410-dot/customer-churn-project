@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+dist/
+.vscode/
+models/random_forest_pipeline.joblib
+models/xgboost_pipeline.joblib
